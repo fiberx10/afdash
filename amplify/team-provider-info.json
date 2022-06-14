@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-afnetdash-dev-21500-authRole",
+      "UnauthRoleArn": "arn:aws:iam::776492763803:role/amplify-afnetdash-dev-21500-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::776492763803:role/amplify-afnetdash-dev-21500-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-afnetdash-dev-21500-deployment",
+      "UnauthRoleName": "amplify-afnetdash-dev-21500-unauthRole",
+      "StackName": "amplify-afnetdash-dev-21500",
+      "StackId": "arn:aws:cloudformation:us-east-1:776492763803:stack/amplify-afnetdash-dev-21500/5470ed10-eba9-11ec-a430-0ebc49a6fc73",
+      "AmplifyAppId": "d3qui22ov7aehl"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3qui22ov7aehl",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
